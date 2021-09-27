@@ -87,7 +87,8 @@ const SignUp = ()=>(
             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" id="item">
              <li><a class="dropdown-item U" href="#">ENGLISH</a></li>
              <li><a class="dropdown-item U" href="#">HINDI </a></li>
-             <li><a class="dropdown-item U" href="#">TAMIL</a></li>
+             <li><a class="dropdown-item U" href="#">MARATHI</a></li>
+              <li><a class="dropdown-item U" href="#">BENGALI</a></li>
             </ul>
     </div>
 </div>
